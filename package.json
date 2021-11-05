@@ -1,7 +1,7 @@
 {
   "name": "express-server-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple node express server",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antoine75-JS/ExpressServer"
+    "url": "git+https://github.com/Antoine75-JS/ExpressServer.git"
   },
   "keywords": [],
   "author": "",
@@ -24,5 +24,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
+  },
+  "bugs": {
+    "url": "https://github.com/Antoine75-JS/ExpressServer/issues"
   }
 }
